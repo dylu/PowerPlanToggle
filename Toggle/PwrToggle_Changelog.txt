@@ -1,0 +1,18 @@
+Major changelogs for PowerPlanToggle.ini
+For minor details please check github.com/dylu/PowerPlanToggle
+
+----------------------------------------------------------------------------------------------------
+For myself:
+ Version Information
+  +0.001 = minor feature/comments
+  +0.010 = lots of minor features or an important bugfix
+  +0.100 = huge feature or change.
+  +1.000 = Up a 'release' version
+----------------------------------------------------------------------------------------------------
+
+
+v 0.001
+-- (10.19.15)
+Imported a base using my LoLSearch files.
+Uploaded to Github.
+
